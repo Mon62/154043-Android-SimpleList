@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleList</string>
+    <string name="odd_number">Odd Number</string>
+    <string name="even_number">Even Number</string>
+    <string name="square_number">Square Number</string>
+    <string name="btn_show">Show</string>
+</resources>
